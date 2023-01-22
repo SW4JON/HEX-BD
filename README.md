@@ -25,7 +25,7 @@ pkg install git
 
 pip install rich
 
-rm -rf Swajon-Random
+rm -rf BD-CRACK
 
 git clone https://github.com/SwajonAhmedOfficial/BD-CRACK.git
 

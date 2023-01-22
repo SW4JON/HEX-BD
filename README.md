@@ -1,7 +1,11 @@
 # BD-CRACK 
 # THIS IS A BD RANDOM ID CRACKING FREE TOOLS ‼️ 🔥
 
-# DON'T FORGET TO FOLLOWING THE REPOSITORY ❤️ 💞
+# DON'T FORGET TO FOLLOWING & STAR THE REPOSITORY ❤️ 💞
+
+Invite Your All Friends In This Group ❤️
+
+https://chat.whatsapp.com/JqP8VAcy1yBBs97Nh9L8k3
 
 # INSTALLATION 👇 👇
 
@@ -29,4 +33,4 @@ cd BD-CRACK
 
 python3 BD-CRACK.py 
 
-![IMG_20221212_203833](https://user-images.githubusercontent.com/91185222/208247076-adfdbd90-fd36-464a-b420-e71d54e58986.jpg)
+

@@ -1,2 +1,1 @@
-import BD 
-BD.SWAJON()
+import sa

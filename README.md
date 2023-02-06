@@ -4,8 +4,7 @@
 # DON'T FORGET TO FOLLOWING & STAR THE REPOSITORY ❤️ 💞
 
 Invite Your All Friends In This Group ❤️
-
-https://chat.whatsapp.com/JqP8VAcy1yBBs97Nh9L8k3
+https://m.me/j/AbZQFMlE6TJ2VGrS/
 
 # INSTALLATION 👇 👇
 
@@ -31,6 +30,6 @@ git clone https://github.com/SwajonAhmedOfficial/BD-CRACK.git
 
 cd BD-CRACK
 
-python3 BD-CRACK.py 
+python3 Swajon.py 
 
 

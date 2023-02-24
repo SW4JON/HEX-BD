@@ -30,6 +30,6 @@ git clone https://github.com/SW4JON/HEX-BD.git
 
 cd HEX-BD
 
-python3 hex.py 
+python3 Hex.py 
 
 

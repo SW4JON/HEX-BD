@@ -26,10 +26,10 @@ pip install rich
 
 rm -rf BD-CRACK
 
-git clone https://github.com/SwajonAhmedOfficial/BD-CRACK.git
+git clone https://github.com/SW4JON/HEX-BD.git
 
-cd BD-CRACK
+cd HEX-BD
 
-python3 Swajon.py 
+python3 hex.py 
 
 

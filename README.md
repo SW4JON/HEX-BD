@@ -4,7 +4,7 @@
 # DON'T FORGET TO FOLLOWING & STAR THE REPOSITORY ❤️ 💞
 
 Invite Your All Friends In This Group ❤️
-https://m.me/j/AbZQFMlE6TJ2VGrS/
+https://www.facebook.com/groups/576640704515573/?ref=share
 
 # INSTALLATION 👇 👇
 

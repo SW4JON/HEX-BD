@@ -1,4 +1,4 @@
-# BD-CRACK 
+# HEX-BD 
 # THIS IS A BD RANDOM ID CRACKING FREE TOOLS ‼️ 🔥
 
 # DON'T FORGET TO FOLLOWING & STAR THE REPOSITORY ❤️ 💞
@@ -24,7 +24,7 @@ pkg install git
 
 pip install rich
 
-rm -rf BD-CRACK
+rm -rf HEX-BD
 
 git clone https://github.com/SW4JON/HEX-BD.git
 
